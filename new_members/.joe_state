@@ -1,0 +1,32 @@
+# JOE state file v1.0
+search
+done
+macros
+done
+files
+	".ssh/authorized_keys\n"
+done
+find
+done
+replace
+done
+run
+done
+build
+done
+grep
+done
+cmd
+done
+math
+done
+yank
+	"l"
+	"/h"
+	"home/"
+	"/ro"
+	"/root/.s"
+done
+file_pos
+	0 ".ssh/authorized_keys"
+done
